@@ -1,0 +1,14 @@
+{
+  "data": {
+    "page1": {
+      "results": [
+        {
+           "id": "1",
+          "name": "Rick Sanchez",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+      ]
+    }
+  }
+}
